@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "1032913748776",
+    "firebase_url": "https://collect-8f6c1.firebaseio.com",
+    "project_id": "collect-8f6c1",
+    "storage_bucket": "collect-8f6c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032913748776:android:ced16bb990d4bb08",
+        "android_client_info": {
+          "package_name": "com.collect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032913748776-2smjuvp9dabjbt74kdl0qh9v53n91gma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBDCYMvJkJHPVYZX1NM-MgH5-f2GBX9yE"
+        },
+        {
+          "current_key": "AIzaSyCBDCYMvJkJHPVYZX1NM-MgH5-f2GBX9yE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
